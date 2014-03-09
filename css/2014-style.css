@@ -25,7 +25,7 @@ body, html {
 }
 
 .section-end{
-    height: 100px;
+    height: 60px;
     width: 100%;
     display: block;
     clear: both;
@@ -57,12 +57,6 @@ h3.tagline{
     margin-bottom: 11px;
 }
 
-.twitter, .twitter:hover {
-    background-color: #33CCFF;
-}
-.linkedin, .linkedin:hover {
-    background-color: #4875B4;
-}
-.github, .github:hover {
+.grey, .grey:hover {
     background-color: #333;
 }
