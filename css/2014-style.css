@@ -60,3 +60,15 @@ h3.tagline{
 .grey, .grey:hover {
     background-color: #333;
 }
+
+.medium-4{
+    background-color: #dfd7ca;
+    -webkit-transition: all .8s;
+    transition: all .8s;    
+}
+
+.medium-4:hover{
+    background-color: #e9e1d4;
+    -webkit-transition: all .8s;
+    transition: all .8s;    
+}
